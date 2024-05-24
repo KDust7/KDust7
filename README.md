@@ -5,30 +5,37 @@
 
 <details>
 <summary>languages I code in</summary>
-**Python**
+<b>Python</b>
 <br>
-**JavaScript/TypeScript**
+<b>JavaScript/TypeScript</b>
 <br>
-**HTML**
+<b>HTML</b>
 <br>
-**CSS**
+<b>CSS</b>
 <br>
-**JS**
+<b>JS</b>
 <br>
-**SQL**
+<b>SQL</b>
 
 </details>
 
 <details>
 <summary>Tools or Libraries I use</summary>
-**React** 
-**Flask**
-**GitHub**
-**pyScript**
-**swup**
-**animate.css**
-**movement.css**
-**bounce.css**
+<b>React</b>
+<br>
+<b>Flask</b>
+<br>
+<b>Flask</b>
+<br>
+<b>pyScript</b>
+<br>
+<b>swup</b>
+<br>
+<b>movement.css</b>
+<br>
+<b>animate.css</b>
+<br>
+<b>bounce.css</b>
 </details>
 
 
@@ -37,15 +44,15 @@
 ## Projects I've worked on
 
 ### Colon
-* **Description:** [An upcoming proxy that is separated by the rest in UI]
-* **Technologies Used:** [React, JS, TypeScript (source), Vite]
-* **Key Achievements:** [Dual-proxy, tabs, optimization mode, the most unbeatable customization]
+* **Description:** An upcoming proxy that is separated by the rest in UI
+* **Technologies Used:** React, JS, TypeScript (source), Vite
+* **Key Achievements:** Dual-proxy, tabs, optimization mode, the most unbeatable customization
 
 
 ### Dash (a private project)
-* **Description:** [An finance management system that is fully done locally]
-* **Technologies Used:** [React (With SWC), TypeScript (source), Next.JS UI Components]
-* **Key Achievements:** [Auto-save, uses the recent fileSystem API to edit files locally. Uses JWT, CRT and hashing to securly save .dash files]
+* **Description:** An finance management system that is fully managed locally
+* **Technologies Used:** React (With SWC), TypeScript (source), Next.JS UI Components
+* **Key Achievements:** Auto-save, uses the recent fileSystem API to edit files locally. Uses JWT, CRT and hashing to securly save .dash files
 
 
 
@@ -53,5 +60,5 @@
 
 ## Contact
 
-* **You can contact me on Discord** [kdust7]
+* **You can contact me on Discord!** *@kdust7*
   

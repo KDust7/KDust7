@@ -16,6 +16,14 @@
 <b>JS</b>
 <br>
 <b>SQL</b>
+<br>
+<b>Astro</b>
+<br>
+<b>Next.js</b>
+<br>
+<b>Node.js</b>
+<br>
+<b>Bun</b>
 
 </details>
 
@@ -23,25 +31,27 @@
 <summary>Tools or Libraries I use</summary>
 <b>React</b>
 <br>
-<b>Flask</b>
+<b>Git</b>
 <br>
 <b>Flask</b>
 <br>
 <b>pyScript</b>
 <br>
-<b>swup</b>
+<b>GitHub</b>
 <br>
-<b>movement.css</b>
-<br>
-<b>animate.css</b>
-<br>
-<b>bounce.css</b>
+<b>Visual Studio Code</b>
+
+
 </details>
 
 
 
 
 ## Projects I've worked on
+### Space
+* **Description:** A proxy developed by Night Network; our flagship product.
+* **Technolgies Used:** Node.js, Ultraviolet, Scramjet, Epoxy Transport, Libcurl transport, jQuery, localforage, GreenSock (GSAP)
+* **Key Achievements:** For fast speeds, Space v2 caches all bandwidth-heavy assets such as images to IndexedDB using a library called localforage.
 
 ### Daylight
 * **Description:** A submission for the Titanium Network Proxathon 2024, however, due to lack of time, unfinished. This will be finished soon.
@@ -51,8 +61,10 @@
 
 ### Dash (a private project)
 * **Description:** An finance management system that is fully managed locally
-* **Technologies Used:** React (With SWC), TypeScript (source), Next.JS UI Components
+* **Technologies Used:** React (With SWC), TypeScript (source), Next.JS UI Components, and a whole lot of other libraries
 * **Key Achievements:** Auto-save, uses the recent fileSystem API to edit files locally. Uses JWT, CRT and hashing to securly save .dash files
+
+
 
 
 

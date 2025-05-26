@@ -58,14 +58,33 @@
 * **Technologies Used:** React, JS, TypeScript (source), Vite
 * **Key Achievements:** Not applicable yet.
 
+### Obscura
+* **Description:** An obfuscation/encoding library that converts strings to UUIDs in both a Node environment and Web environment
+* **Technologies Used:** TypeScript (obscura-python soon lol), Web Crypto API for SHA-256, UUID library
+* **Key Achievements:** Layers and layers of encryption and encoding before finally converting to UUID (including base64, xor, ciphers, hashing, and more)
+obscura is available on npm ;)
 
-### Dash (a private project)
-* **Description:** An finance management system that is fully managed locally
-* **Technologies Used:** React (With SWC), TypeScript (source), Next.JS UI Components, and a whole lot of other libraries
-* **Key Achievements:** Auto-save, uses the recent fileSystem API to edit files locally. Uses JWT, CRT and hashing to securly save .dash files
+we have a pretty good readme for documentation/usage too.
 
+available at `@nightnetwork/obscura` on npm
 
+to read the readme, go to [obscura's github](https://github.com/Night-Libs/Obscura)
 
+### DayDreamX
+* **Description**: Night Network's flagship tabbed proxy.
+* **Technologies Used:** Node.js, JavaScript, Ultraviolet, Scramjet
+* **Key Achievements:** All pages are completely JavaScript rendered using an alpha version of our library, Nightmare.
+
+### Nightmare
+* **Description**: The next-level rendering and component library for static projects, without a bundler.
+* **Technologies Used:** Not complete: TypeScript, React (docs), MDX (docs), Vite (for both)
+* **Key Achievements:** Allows a beginner to use a component library in an easy, simple way. Allows for more `react-like` syntax without using a bundler. Multiple ways to write designs and pages.
+
+### todo
+* **Description**: An agenda with more features than you can count.
+* **Technologies Used:** SvelteKit, Tauri (for desktop app), Rust (backend)
+* (tech stack prone to changes, this project is not completed and is in development)
+* **Key Achievements:** Not applicable; in development and not finished.
 
 
 
